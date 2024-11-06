@@ -1,0 +1,11 @@
+import time
+print("Welcome")
+time.sleep(2)
+print("To")
+time.sleep(2)
+print("Tcps")
+time.sleep(2)
+print("IT")
+time.sleep(2)
+print("Education")
+time.sleep(2)
